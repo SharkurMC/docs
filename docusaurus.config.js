@@ -16,7 +16,7 @@ const config = {
   title: 'SharkurMC Documentation',
   tagline: 'Documentation for Sharkur',
   url: 'https://sharkurmc.github.io/docs',
-  baseUrl: '/',
+  baseUrl: '/docs/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.png',
