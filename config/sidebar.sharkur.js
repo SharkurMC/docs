@@ -1,3 +1,3 @@
 module.exports = {
-    primary: ["README"],
+    primary: ["README", "configuration", "commands"],
 }

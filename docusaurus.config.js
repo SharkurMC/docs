@@ -15,11 +15,11 @@ const docsCommon = {
 const config = {
   title: 'SharkurMC Documentation',
   tagline: 'Documentation for Sharkur',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://sharkurmc.github.io/docs',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.png',
   trailingSlash: false,
   noIndex: true,
   clientModules: [require.resolve("./src/css/custom.css")],
@@ -98,7 +98,7 @@ const config = {
         title: 'SharkurMC',
         logo: {
           alt: 'SharkurMC Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
@@ -107,7 +107,7 @@ const config = {
             position: 'left',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/SharkurMC/docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -151,7 +151,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/SharkurMC/docs',
               },
             ],
           },

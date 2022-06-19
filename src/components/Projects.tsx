@@ -8,7 +8,7 @@ const projects: Project[] = [
   {
     title: "Sharkur",
     description:
-      "Sharkur is a fork of Purpur which adds more configuration and also some optimalization. .",
+      "Sharkur is a fork of Purpur which adds more configuration and also some optimalization.",
     repo: "SharkurMC/Sharkur",
     link: "/sharkur",
   },
