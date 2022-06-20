@@ -29,3 +29,4 @@ jobs:
           publish_branch: page
           user_name: github-actions[bot]
           user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          cname: docs.sharkurmc.rgarlic.eu
